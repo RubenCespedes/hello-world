@@ -1,2 +1,7 @@
 # hello-world
-hello world project for testing
+
+Hi humans!
+
+Hubot here, I like node.js
+
+This a chage know as commit.
